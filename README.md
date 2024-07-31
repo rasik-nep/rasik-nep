@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rasik Nepal</h1>
 
-- 🔭 I’m currently working on **Fine-tuning LlaMA**
-
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **React, TypeScript**
 
